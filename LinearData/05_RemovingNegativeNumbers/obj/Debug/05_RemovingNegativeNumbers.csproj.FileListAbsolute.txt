@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DSA\LinearData\05_RemovingNegativeNumbers\bin\Debug\05_RemovingNegativeNumbers.exe.config
+D:\ПРОГРАМИСТ\DSA\LinearData\05_RemovingNegativeNumbers\bin\Debug\05_RemovingNegativeNumbers.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\05_RemovingNegativeNumbers\bin\Debug\05_RemovingNegativeNumbers.pdb
+D:\ПРОГРАМИСТ\DSA\LinearData\05_RemovingNegativeNumbers\obj\Debug\05_RemovingNegativeNumbers.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\05_RemovingNegativeNumbers\obj\Debug\05_RemovingNegativeNumbers.pdb

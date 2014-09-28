@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DSA\LinearData\06_RemovingOddTimeOccuringNumbers\bin\Debug\06_RemovingOddTimeOccuringNumbers.exe.config
+D:\ПРОГРАМИСТ\DSA\LinearData\06_RemovingOddTimeOccuringNumbers\bin\Debug\06_RemovingOddTimeOccuringNumbers.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\06_RemovingOddTimeOccuringNumbers\bin\Debug\06_RemovingOddTimeOccuringNumbers.pdb
+D:\ПРОГРАМИСТ\DSA\LinearData\06_RemovingOddTimeOccuringNumbers\obj\Debug\06_RemovingOddTimeOccuringNumbers.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DSA\LinearData\06_RemovingOddTimeOccuringNumbers\obj\Debug\06_RemovingOddTimeOccuringNumbers.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\06_RemovingOddTimeOccuringNumbers\obj\Debug\06_RemovingOddTimeOccuringNumbers.pdb

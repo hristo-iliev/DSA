@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DSA\LinearData\02_ReversingNumbers\bin\Debug\02_ReversingNumbers.exe.config
+D:\ПРОГРАМИСТ\DSA\LinearData\02_ReversingNumbers\bin\Debug\02_ReversingNumbers.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\02_ReversingNumbers\bin\Debug\02_ReversingNumbers.pdb
+D:\ПРОГРАМИСТ\DSA\LinearData\02_ReversingNumbers\obj\Debug\02_ReversingNumbers.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\02_ReversingNumbers\obj\Debug\02_ReversingNumbers.pdb

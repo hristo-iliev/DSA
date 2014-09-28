@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DSA\LinearData\07_FindAllOccurenses\bin\Debug\07_FindAllOccurenses.exe.config
+D:\ПРОГРАМИСТ\DSA\LinearData\07_FindAllOccurenses\bin\Debug\07_FindAllOccurenses.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\07_FindAllOccurenses\bin\Debug\07_FindAllOccurenses.pdb
+D:\ПРОГРАМИСТ\DSA\LinearData\07_FindAllOccurenses\obj\Debug\07_FindAllOccurenses.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\07_FindAllOccurenses\obj\Debug\07_FindAllOccurenses.pdb

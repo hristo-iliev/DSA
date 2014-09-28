@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DSA\LinearData\04-LongestSubsequenceOfEqualInts\bin\Debug\04-LongestSubsequenceOfEqualInts.exe.config
+D:\ПРОГРАМИСТ\DSA\LinearData\04-LongestSubsequenceOfEqualInts\bin\Debug\04-LongestSubsequenceOfEqualInts.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\04-LongestSubsequenceOfEqualInts\bin\Debug\04-LongestSubsequenceOfEqualInts.pdb
+D:\ПРОГРАМИСТ\DSA\LinearData\04-LongestSubsequenceOfEqualInts\obj\Debug\04-LongestSubsequenceOfEqualInts.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\04-LongestSubsequenceOfEqualInts\obj\Debug\04-LongestSubsequenceOfEqualInts.pdb

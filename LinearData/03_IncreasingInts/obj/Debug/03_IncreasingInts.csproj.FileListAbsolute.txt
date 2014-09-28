@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DSA\LinearData\03_IncreasingInts\bin\Debug\03_IncreasingInts.exe.config
+D:\ПРОГРАМИСТ\DSA\LinearData\03_IncreasingInts\bin\Debug\03_IncreasingInts.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\03_IncreasingInts\bin\Debug\03_IncreasingInts.pdb
+D:\ПРОГРАМИСТ\DSA\LinearData\03_IncreasingInts\obj\Debug\03_IncreasingInts.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\03_IncreasingInts\obj\Debug\03_IncreasingInts.pdb

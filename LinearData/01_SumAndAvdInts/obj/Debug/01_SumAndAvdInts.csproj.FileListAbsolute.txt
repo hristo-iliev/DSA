@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DSA\LinearData\01_SumAndAvdInts\bin\Debug\01_SumAndAvdInts.exe.config
+D:\ПРОГРАМИСТ\DSA\LinearData\01_SumAndAvdInts\bin\Debug\01_SumAndAvdInts.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\01_SumAndAvdInts\bin\Debug\01_SumAndAvdInts.pdb
+D:\ПРОГРАМИСТ\DSA\LinearData\01_SumAndAvdInts\obj\Debug\01_SumAndAvdInts.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DSA\LinearData\01_SumAndAvdInts\obj\Debug\01_SumAndAvdInts.exe
+D:\ПРОГРАМИСТ\DSA\LinearData\01_SumAndAvdInts\obj\Debug\01_SumAndAvdInts.pdb
